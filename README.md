@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GDutreuilh
 - 👀 I’m interested in code, cars and sports
 - 🌱 I’m currently learning React Native
-- ⚡ Fun fact: I prepare a Marathon
+- ⚡ Fun fact: I am preparing a Marathon
 
 <!---
 GDutreuilh/GDutreuilh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
