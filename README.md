@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GDutreuilh
-- 👀 I’m interested in code, cars and sports
+- 📚 I study electrical engineering at INSA Lyon (France 🇫🇷)
 - 🌱 I’m currently learning React Native
 - ⚡ Fun fact: I am preparing a Marathon
 
